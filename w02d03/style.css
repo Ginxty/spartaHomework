@@ -1,0 +1,33 @@
+main {
+	background-color: #e8eaed;
+	
+}
+
+
+
+* {
+	border: 2px solid black;
+}
+main {
+	margin: 50px auto;
+	height: 500px;
+	width: 400px;
+}
+
+#display {
+	background-color: #d0dbed;
+	height: 80px;
+	width: 380px;
+	margin: 10px auto;
+}
+
+button {
+	margin: 28px;
+	font-size: 20px;
+	line-height: 1.5;
+	width: 40px;
+}
+
+body {
+	background-color: #4286f4
+}
